@@ -1,0 +1,21 @@
+{
+    "fontName": "checklist",
+    "fontDestination": "fonts",
+    "fontClasses": [
+        {
+            "name": "icon-fn-checklist",
+            "unicode": "\uE001",
+            "path":"svg/checklist.svg"
+        },
+        {
+            "name": "icon-fn-clock",
+            "unicode": "\uE002",
+            "path":"svg/clock.svg"
+        },
+        {
+            "name": "icon-fn-cloud",
+            "unicode": "\uE003",
+            "path":"svg/cloud.svg"
+        }
+    ]
+}
